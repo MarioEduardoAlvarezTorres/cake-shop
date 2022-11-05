@@ -1,0 +1,24 @@
+table.table-pedidos{
+   width: 100%;
+   padding: 2rem 10rem;
+}
+table.table-adornos{
+   width: 100%;
+   padding-top: 1rem;
+   padding-left: 30rem;
+   padding-right: 30rem;
+   padding-bottom: 11rem;
+}
+table.table-sabores{
+   width: 100%;
+   padding-top: 1rem;
+   padding-left: 30rem;
+   padding-right: 30rem;
+   padding-bottom: 1rem;
+}
+th, td {
+   width: 25%;
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid #000;
+}
